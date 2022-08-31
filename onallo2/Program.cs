@@ -16,6 +16,7 @@ namespace onallo2
             Console.ReadKey();
         }
 
+        //Git komment
         static async void XMLToEmber(string path)
         {
             List<Ember> emberek = await XMLKezelo.XMLToEmber(path);
