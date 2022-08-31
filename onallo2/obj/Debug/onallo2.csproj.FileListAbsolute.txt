@@ -1,0 +1,8 @@
+C:\Users\x\Desktop\Csoportok\HSZ\20220831\ismetles\onallo2\bin\Debug\onallo2.exe.config
+C:\Users\x\Desktop\Csoportok\HSZ\20220831\ismetles\onallo2\bin\Debug\onallo2.exe
+C:\Users\x\Desktop\Csoportok\HSZ\20220831\ismetles\onallo2\bin\Debug\onallo2.pdb
+C:\Users\x\Desktop\Csoportok\HSZ\20220831\ismetles\onallo2\obj\Debug\onallo2.csproj.AssemblyReference.cache
+C:\Users\x\Desktop\Csoportok\HSZ\20220831\ismetles\onallo2\obj\Debug\onallo2.csproj.SuggestedBindingRedirects.cache
+C:\Users\x\Desktop\Csoportok\HSZ\20220831\ismetles\onallo2\obj\Debug\onallo2.csproj.CoreCompileInputs.cache
+C:\Users\x\Desktop\Csoportok\HSZ\20220831\ismetles\onallo2\obj\Debug\onallo2.exe
+C:\Users\x\Desktop\Csoportok\HSZ\20220831\ismetles\onallo2\obj\Debug\onallo2.pdb

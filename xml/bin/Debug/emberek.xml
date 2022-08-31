@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<emberek>
+  <ember>
+    <nev>Kiss Lajos</nev>
+    <email>kl@gmail.com</email>
+    <kor>23</kor>
+    <nem>f</nem>
+  </ember>
+  <ember>
+    <nev>Nagy Adrienn</nev>
+    <email>na@citromail.hu</email>
+    <kor>43</kor>
+    <nem>n</nem>
+  </ember>
+  <ember>
+    <nev>Kovacs Laszlo</nev>
+    <email>ka@yahoo.com</email>
+    <kor>34</kor>
+    <nem>f</nem>
+  </ember>
+</emberek>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<emberek>
+  <ember>
+    <nev>Kiss Lajos</nev>
+    <szulDatum>1961. 05. 13.</szulDatum>
+    <nem>true</nem>
+  </ember>
+  <ember>
+    <nev>Nagy Adrienn</nev>
+    <szulDatum>1994. 11. 24.</szulDatum>
+    <nem>false</nem>
+  </ember>
+  <ember>
+    <nev>Toth Laszlo</nev>
+    <szulDatum>1987. 01. 05.</szulDatum>
+    <nem>true</nem>
+  </ember>
+</emberek>

@@ -1,0 +1,8 @@
+C:\Users\x\Desktop\Csoportok\HSZ\20220824\ismetles\xml\bin\Debug\xml.exe.config
+C:\Users\x\Desktop\Csoportok\HSZ\20220824\ismetles\xml\bin\Debug\xml.exe
+C:\Users\x\Desktop\Csoportok\HSZ\20220824\ismetles\xml\bin\Debug\xml.pdb
+C:\Users\x\Desktop\Csoportok\HSZ\20220824\ismetles\xml\obj\Debug\xml.csproj.AssemblyReference.cache
+C:\Users\x\Desktop\Csoportok\HSZ\20220824\ismetles\xml\obj\Debug\xml.csproj.SuggestedBindingRedirects.cache
+C:\Users\x\Desktop\Csoportok\HSZ\20220824\ismetles\xml\obj\Debug\xml.csproj.CoreCompileInputs.cache
+C:\Users\x\Desktop\Csoportok\HSZ\20220824\ismetles\xml\obj\Debug\xml.exe
+C:\Users\x\Desktop\Csoportok\HSZ\20220824\ismetles\xml\obj\Debug\xml.pdb

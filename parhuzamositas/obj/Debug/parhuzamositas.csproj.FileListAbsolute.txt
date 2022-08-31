@@ -1,0 +1,8 @@
+C:\Users\x\Desktop\Csoportok\HSZ\20220829\ismetles\parhuzamositas\obj\Debug\parhuzamositas.csproj.AssemblyReference.cache
+C:\Users\x\Desktop\Csoportok\HSZ\20220829\ismetles\parhuzamositas\obj\Debug\parhuzamositas.csproj.SuggestedBindingRedirects.cache
+C:\Users\x\Desktop\Csoportok\HSZ\20220829\ismetles\parhuzamositas\obj\Debug\parhuzamositas.csproj.CoreCompileInputs.cache
+C:\Users\x\Desktop\Csoportok\HSZ\20220829\ismetles\parhuzamositas\bin\Debug\parhuzamositas.exe.config
+C:\Users\x\Desktop\Csoportok\HSZ\20220829\ismetles\parhuzamositas\bin\Debug\parhuzamositas.exe
+C:\Users\x\Desktop\Csoportok\HSZ\20220829\ismetles\parhuzamositas\bin\Debug\parhuzamositas.pdb
+C:\Users\x\Desktop\Csoportok\HSZ\20220829\ismetles\parhuzamositas\obj\Debug\parhuzamositas.exe
+C:\Users\x\Desktop\Csoportok\HSZ\20220829\ismetles\parhuzamositas\obj\Debug\parhuzamositas.pdb
